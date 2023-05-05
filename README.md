@@ -14,4 +14,9 @@
 |---|---|---|---|
 | 28.04.2023 | V1.0 | Alexandru Bud |  |
 | 05.05.2023 | V1.1 | Andrada Pop | More details added on Test Implementation |
-| 05.06.2023 | V1.2 | Alexandru Bud | Test completion report added |  
+| 05.06.2023 | V1.2 | Alexandru Bud | Test completion report added |
+
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
