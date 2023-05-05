@@ -43,6 +43,6 @@ OrangeHRM*Project*
 
 ![Test condition](https://github.com/AlexB1904/Proiect-Testare-Manuala/blob/main/Screenshot%202023-05-05%20183407.png)
 
-Link catre fisier [Screenshot for ](link)
+The tast case  can be found hier [Tast  case 1](https://github.com/AlexB1904/Proiect-Testare-Manuala/blob/main/Screenshot%20(8).png)
 
 
