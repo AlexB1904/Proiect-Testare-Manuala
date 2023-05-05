@@ -39,6 +39,8 @@ OrangeHRM**Project**
 
 OrangeHRM*Project*
 
+**This are the test cconditions**
+
 ![Test ccondition](https://github.com/AlexB1904/Proiect-Testare-Manuala/blob/main/Screenshot%202023-05-05%20183407.png)
 
 
